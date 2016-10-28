@@ -1,0 +1,8 @@
+input{
+  background-color:green;
+}
+
+input[name*="recipe"]
+{
+     border:1px dashed black;
+}

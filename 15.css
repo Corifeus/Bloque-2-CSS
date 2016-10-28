@@ -1,0 +1,8 @@
+body > p{
+  font-weight:bold;
+  font-style:italic;
+}
+
+p{
+  font-style:italic;
+}
